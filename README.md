@@ -4,7 +4,7 @@ Returns the IMDB rating for a movie.
 Will return most relevant ratings.
 
 Input : [Movie name]
-Output : Ratings of all matched movies
+| Output : Ratings of all matched movies
 
 
 More info .. 
